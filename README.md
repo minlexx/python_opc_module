@@ -34,3 +34,4 @@ print(server.get_item_info('Numeric._I4'))
 ```
 
 That's all API for now.
+See also https://github.com/minlexx/python_opc_test for examples on how to use this module in Python.
